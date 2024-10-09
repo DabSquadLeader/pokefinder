@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import "./styles.css";
+import "./App.css";
 import Title from "./Title.js";
 import Entry from "./Entry.js";
 import Info from "./Info.js";
