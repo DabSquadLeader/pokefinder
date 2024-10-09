@@ -1,0 +1,1 @@
+This app takes input from the user (Pokemon name) and outputs its possible moves.
